@@ -65,7 +65,7 @@ mae=mean_absolute_error(y_test,y_pred)
 print('MAE = ',mae)
 rmse=np.sqrt(mse)
 print("RMSE= ",rmse)
-
+```
 ## Output:
 #Dataset:
 ![Screenshot 2024-02-22 091515](https://github.com/sudharsanakumar18/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/138849110/4dfa8944-45ea-4520-be12-41ba501943e7)
