@@ -67,23 +67,23 @@ rmse=np.sqrt(mse)
 print("RMSE= ",rmse)
 ```
 ## Output:
-##Dataset:
+## Dataset:
 
 ![Screenshot 2024-02-22 091515](https://github.com/sudharsanakumar18/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/138849110/4dfa8944-45ea-4520-be12-41ba501943e7)
 
-##Head values:
+## Head values:
 
 ![Screenshot 2024-02-22 091557](https://github.com/sudharsanakumar18/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/138849110/c3b18e9c-6b34-42bd-8df9-294b279bfe66)
 
-##Tail values:
+## Tail values:
 
 ![Screenshot 2024-02-22 091610](https://github.com/sudharsanakumar18/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/138849110/861fc716-81ec-4975-96b4-db8ef2709178)
 
-##X and Y values:
+## X and Y values:
 
 ![Screenshot 2024-02-22 091654](https://github.com/sudharsanakumar18/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/138849110/081f961c-e2c9-4574-98b6-a9018bc799aa)
 
-##Training Set, Testing Set, MSE, MAE and RMSE:
+## Training Set, Testing Set, MSE, MAE and RMSE:
 
 ![Screenshot 2024-02-22 090953](https://github.com/sudharsanakumar18/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/138849110/e4523540-f46c-49d9-94eb-daff61e0084f)
 
